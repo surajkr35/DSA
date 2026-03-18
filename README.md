@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/surajkr35/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/surajkr35/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/surajkr35/DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/surajkr35/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/surajkr35/DSA/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/surajkr35/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/surajkr35/DSA/tree/master/1929-concatenation-of-array) |
