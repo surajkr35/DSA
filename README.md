@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/surajkr35/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/surajkr35/DSA/tree/master/1929-concatenation-of-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajkr35/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surajkr35/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,8 +64,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/surajkr35/DSA/tree/master/0303-range-sum-query-immutable) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajkr35/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surajkr35/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Matrix
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajkr35/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surajkr35/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 <!---LeetCode Topics End-->
