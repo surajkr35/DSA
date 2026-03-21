@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/surajkr35/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/surajkr35/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/surajkr35/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/surajkr35/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/surajkr35/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/surajkr35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/surajkr35/DSA/tree/master/0455-assign-cookies) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/surajkr35/DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajkr35/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/surajkr35/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
