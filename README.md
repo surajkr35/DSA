@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/surajkr35/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajkr35/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surajkr35/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/surajkr35/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surajkr35/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajkr35/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/surajkr35/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajkr35/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surajkr35/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/surajkr35/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/surajkr35/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajkr35/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surajkr35/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/surajkr35/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surajkr35/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajkr35/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sliding Window
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/surajkr35/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/surajkr35/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
