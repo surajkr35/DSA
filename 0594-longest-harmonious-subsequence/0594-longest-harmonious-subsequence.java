@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
     public int findLHS(int[] nums) {
         Arrays.sort(nums);  // Step 1: sort the array
