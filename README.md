@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/surajkr35/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/surajkr35/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/surajkr35/DSA/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/surajkr35/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/surajkr35/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/surajkr35/DSA/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/surajkr35/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/surajkr35/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/surajkr35/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/surajkr35/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/surajkr35/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surajkr35/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/surajkr35/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/surajkr35/DSA/tree/master/0189-rotate-array) |
 | [0598-range-addition-ii](https://github.com/surajkr35/DSA/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/surajkr35/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajkr35/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
