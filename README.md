@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/surajkr35/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajkr35/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2906-construct-product-matrix](https://github.com/surajkr35/DSA/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajkr35/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajkr35/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajkr35/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surajkr35/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/surajkr35/DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/surajkr35/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajkr35/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajkr35/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surajkr35/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/surajkr35/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/surajkr35/DSA/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajkr35/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajkr35/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajkr35/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surajkr35/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/surajkr35/DSA/tree/master/0189-rotate-array) |
 | [0598-range-addition-ii](https://github.com/surajkr35/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajkr35/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajkr35/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajkr35/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
