@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/surajkr35/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/surajkr35/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/surajkr35/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/surajkr35/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/surajkr35/DSA/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/surajkr35/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/surajkr35/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajkr35/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/surajkr35/DSA/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/surajkr35/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surajkr35/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Binary Search
