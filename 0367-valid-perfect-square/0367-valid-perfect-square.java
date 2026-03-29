@@ -1,6 +1,5 @@
 class Solution {
     public boolean isPerfectSquare(int num) {
-        
         long beg = 1, end = num;
         while(beg <= end){
             long mid = beg + (end - beg)/2;
