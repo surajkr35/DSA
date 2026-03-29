@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/surajkr35/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/surajkr35/DSA/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/surajkr35/DSA/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/surajkr35/DSA/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/surajkr35/DSA/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/surajkr35/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/surajkr35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajkr35/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/surajkr35/DSA/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/surajkr35/DSA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajkr35/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajkr35/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/surajkr35/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/surajkr35/DSA/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/surajkr35/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/surajkr35/DSA/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surajkr35/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Binary Search
