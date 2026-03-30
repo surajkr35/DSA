@@ -1,10 +1,15 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        if(num==6 || num==28|| num==496 || num==8128||num==33550336){
-            return true;
+        int[] primes = {2, 3, 5, 7, 13};
+
+        for (int p : primes) {
+            int m = (int)Math.pow(2, p) - 1;
+            int perfect = (int)Math.pow(2, p - 1) * m;
+
+            if (perfect == num) {
+                return true;
+            }
         }
-        else{
-            return false;
-        }
+        return false;
     }
 }
