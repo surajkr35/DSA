@@ -1,26 +1,10 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        if (num <= 1)
-            return false;
-        for (int i = 2; i <= Math.sqrt(num); i++) {
-            if (num % i == 0) {
-                return checkForNonPrime(num);
-            }
-        }
-        return false;
-
-    }
-
-    private boolean checkForNonPrime(int x) {
-        int sum = 0;
-        for (int i = 1; i <= x / 2; i++) {
-            if (x % i == 0) {
-                sum = sum + i;
-            }
-        }
-        if (sum == x) {
+        if(num==6 || num==28|| num==496 || num==8128||num==33550336){
             return true;
         }
-        return false;
+        else{
+            return false;
+        }
     }
 }
