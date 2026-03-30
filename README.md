@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/surajkr35/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/surajkr35/DSA/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/surajkr35/DSA/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/surajkr35/DSA/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/surajkr35/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajkr35/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajkr35/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
