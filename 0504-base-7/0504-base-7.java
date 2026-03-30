@@ -3,4 +3,3 @@ class Solution {
         return Integer.toString(num, 7);
     }
 }
-// 
