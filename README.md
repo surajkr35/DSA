@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/surajkr35/DSA/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/surajkr35/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/surajkr35/DSA/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/surajkr35/DSA/tree/master/0908-smallest-range-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/surajkr35/DSA/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/surajkr35/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/surajkr35/DSA/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/surajkr35/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajkr35/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0908-smallest-range-i](https://github.com/surajkr35/DSA/tree/master/0908-smallest-range-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajkr35/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajkr35/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
