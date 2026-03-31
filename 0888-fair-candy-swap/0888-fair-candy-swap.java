@@ -17,7 +17,6 @@ class Solution {
                 return new int[]{a, a + diff};
             }
         }
-
         return new int[]{};
     }
 }
