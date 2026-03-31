@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] fairCandySwap(int[] alice, int[] bob) {
         int sumA = 0, sumB = 0;
