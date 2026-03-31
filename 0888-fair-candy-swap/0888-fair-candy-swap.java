@@ -8,7 +8,6 @@ class Solution {
         for (int b : bob) sumB += b;
 
         int diff = (sumB - sumA) / 2;
-
         Set<Integer> setB = new HashSet<>();
         for (int b : bob) setB.add(b);
 
