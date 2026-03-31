@@ -5,8 +5,7 @@ class Solution {
         for (int n : nums) {
             min = Math.min(min, n);
             max = Math.max(max, n);
-        }
-        
+        }      
         int range = max - min;
         return Math.max(0, range - 2 * k);
     }
