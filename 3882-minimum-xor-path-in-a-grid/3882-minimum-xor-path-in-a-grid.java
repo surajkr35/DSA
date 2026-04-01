@@ -20,6 +20,7 @@ class Solution {
                 }
             }
         }
+        
         for( int k = 0; k < max; k++){
             if(d[m-1][n-1][k]){
                 return k;
@@ -27,5 +28,4 @@ class Solution {
         }
         return 0;
     }
-
 }
