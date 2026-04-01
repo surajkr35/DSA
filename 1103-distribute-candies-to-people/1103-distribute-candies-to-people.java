@@ -16,7 +16,7 @@ class Solution {
             }
             else{
                 res[i] = res[i] + candies - sum;
-                sum = sum + res[i];
+                sum = sum + candies - sum;
             }
         }
         return res;
