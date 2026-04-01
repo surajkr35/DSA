@@ -19,6 +19,7 @@ class Solution {
                 sum = sum + candies - sum;
             }
         }
+        
         return res;
     }
 }
