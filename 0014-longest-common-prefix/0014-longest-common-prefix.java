@@ -8,7 +8,6 @@ class Solution {
         for (String s : str) {
             minLen = Math.min(minLen, s.length());
         }
-
         int k = 0;
         while (k < minLen) {
             char c = str[0].charAt(k); 
