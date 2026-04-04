@@ -10,7 +10,6 @@ class Solution {
         }
 
         int k = 0;
-
         while (k < minLen) {
             char c = str[0].charAt(k); 
 
