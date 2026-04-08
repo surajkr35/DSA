@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/surajkr35/DSA/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/surajkr35/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/surajkr35/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/surajkr35/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajkr35/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2573-find-the-string-with-lcp](https://github.com/surajkr35/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/surajkr35/DSA/tree/master/2751-robot-collisions) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/surajkr35/DSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/surajkr35/DSA/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/surajkr35/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajkr35/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajkr35/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajkr35/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/surajkr35/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/surajkr35/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/surajkr35/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Design
 |  |
 | ------- |
