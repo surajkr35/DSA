@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/surajkr35/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/surajkr35/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/surajkr35/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2057-smallest-index-with-equal-value](https://github.com/surajkr35/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajkr35/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2573-find-the-string-with-lcp](https://github.com/surajkr35/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/surajkr35/DSA/tree/master/2751-robot-collisions) |
