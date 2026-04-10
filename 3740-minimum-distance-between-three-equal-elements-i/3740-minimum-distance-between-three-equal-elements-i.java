@@ -15,6 +15,7 @@ class Solution {
                 }
             }
         }
+        
         return minDist == Integer.MAX_VALUE ? -1 : minDist;
     }
 }
