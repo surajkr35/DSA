@@ -17,7 +17,6 @@ class Solution {
                 even[i]--;
                 k += 2;
             }
-
         }
         k = 1;
         for (int i = odd.length - 1; i >= 0; i--) {
@@ -26,7 +25,6 @@ class Solution {
                 odd[i]--;
                 k += 2;
             }
-
         }
         return nums;
     }
