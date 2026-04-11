@@ -1,7 +1,6 @@
 class Solution {
     public int findFinalValue(int[] nums, int original){
         boolean present = true;
-        
         while(present){
             if(check(nums, original)){
                 original *= 2;
@@ -22,7 +21,7 @@ class Solution {
         return false;
     }
 }
-//    Using HashSet<>
+//    Using HashSet<>   ~ O(n) Time Complexity
  
 // class Solution {
 //     public int findFinalValue(int[] nums, int original) {
