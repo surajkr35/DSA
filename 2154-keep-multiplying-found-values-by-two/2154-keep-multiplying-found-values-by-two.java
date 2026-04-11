@@ -1,5 +1,5 @@
 class Solution {
-    public int findFinalValue(int[] nums, int original) {
+    public int findFinalValue(int[] nums, int original){
         boolean present = true;
         while(present){
             if(check(nums, original)){
