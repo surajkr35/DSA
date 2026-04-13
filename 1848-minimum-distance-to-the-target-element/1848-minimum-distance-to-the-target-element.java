@@ -7,6 +7,7 @@ class Solution {
                 min = Math.min(Math.abs(i-start), min);
             }
         }
+        
         return min;
     }
 }
