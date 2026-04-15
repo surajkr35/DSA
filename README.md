@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/surajkr35/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/surajkr35/DSA/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/surajkr35/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2239-find-closest-number-to-zero](https://github.com/surajkr35/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajkr35/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/surajkr35/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/surajkr35/DSA/tree/master/2751-robot-collisions) |
