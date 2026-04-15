@@ -6,7 +6,6 @@ class Solution {
         int maxFreq = 0;
 
         for (int num : nums) {
-
             if (num % 2 != 0) continue; 
 
             int count = freq.getOrDefault(num, 0) + 1;
