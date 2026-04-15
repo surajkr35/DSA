@@ -1,18 +1,17 @@
 class Solution {
     public int findClosestNumber(int[] nums) {
-        
-        int closest = 0;
-        int minDist = Integer.MAX_VALUE;
+        int closest = nums[0];
+        int minDist = Math.abs(nums[0]);
 
         for (int num : nums) {
+            int abs = Math.abs(num);
 
-            int abs = num < 0 ? -num : num;
-
-            if ((abs < minDist) || (abs == minDist && abs > closest)) {
+            if (abs < minDist || (abs == minDist && num > closest)) {
                 closest = num;
                 minDist = abs;
             }
         }
+
         return closest;
     }
 }
