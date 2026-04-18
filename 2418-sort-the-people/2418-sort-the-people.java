@@ -11,7 +11,6 @@ class Solution {
         for(int i = heights.length - 1; i >= 0; i--){
             ans[x++] = map.get(heights[i]);
         }
-
         return ans;
     }
 }
