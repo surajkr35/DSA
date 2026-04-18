@@ -10,8 +10,7 @@ class Solution {
             if(set.contains(-num)){
                 ans = Math.max(ans,num);
             }
-        }
-        
+        } 
         return ans;
     }
 }
