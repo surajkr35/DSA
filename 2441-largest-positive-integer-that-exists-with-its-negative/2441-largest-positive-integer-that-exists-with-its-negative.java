@@ -2,6 +2,7 @@
 class Solution {
     public int findMaxK(int[] nums) {
         HashSet <Integer> set = new HashSet<>();
+        
         for(int num : nums){
             set.add(num);
         }
