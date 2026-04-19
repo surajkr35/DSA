@@ -5,6 +5,7 @@ class Solution {
         int dist = 0, maxDist = 0;
 
         int i = 0, j = 0;
+        
         while(i < n1 && j < n2){
             if(nums1[i] <= nums2[j]){
                 dist = j - i;
