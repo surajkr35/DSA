@@ -9,7 +9,7 @@ class Solution {
         }
         return fa[x];
     }
-
+    
     private void union(int x, int y) {
         x = find(x);
         y = find(y);
@@ -24,7 +24,6 @@ class Solution {
             rank[x]++;
         }
     }
-
     public int minimumHammingDistance(
         int[] source,
         int[] target,
