@@ -8,7 +8,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             map.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
         }
-
         for (List<Integer> idx : map.values()) {
             int k = idx.size();
 
@@ -18,7 +17,6 @@ class Solution {
             for (int i = 0; i < k; i++) {
                 right += idx.get(i) - idx.get(0);
             }
-
             for (int i = 0; i < k; i++) {
                 int currentIndex = idx.get(i);
                 res[currentIndex] = left + right;
@@ -31,7 +29,6 @@ class Solution {
                 }
             }
         }
-
         return res;
     }
 }
