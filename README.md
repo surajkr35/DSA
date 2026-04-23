@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/surajkr35/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajkr35/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/surajkr35/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/surajkr35/DSA/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/surajkr35/DSA/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/surajkr35/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajkr35/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/surajkr35/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/surajkr35/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/surajkr35/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2615-sum-of-distances](https://github.com/surajkr35/DSA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajkr35/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajkr35/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3488-closest-equal-element-queries](https://github.com/surajkr35/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/surajkr35/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/surajkr35/DSA/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/surajkr35/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2615-sum-of-distances](https://github.com/surajkr35/DSA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/surajkr35/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajkr35/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/surajkr35/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
