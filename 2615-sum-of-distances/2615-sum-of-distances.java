@@ -17,6 +17,7 @@ class Solution {
             for (int i = 0; i < k; i++) {
                 right += idx.get(i) - idx.get(0);
             }
+            
             for (int i = 0; i < k; i++) {
                 int currentIndex = idx.get(i);
                 res[currentIndex] = left + right;
