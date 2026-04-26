@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/surajkr35/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/surajkr35/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/surajkr35/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2465-number-of-distinct-averages](https://github.com/surajkr35/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajkr35/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/surajkr35/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/surajkr35/DSA/tree/master/2615-sum-of-distances) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/surajkr35/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajkr35/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/surajkr35/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2465-number-of-distinct-averages](https://github.com/surajkr35/DSA/tree/master/2465-number-of-distinct-averages) |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajkr35/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/surajkr35/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/surajkr35/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/surajkr35/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2465-number-of-distinct-averages](https://github.com/surajkr35/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2751-robot-collisions](https://github.com/surajkr35/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajkr35/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surajkr35/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/surajkr35/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/surajkr35/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/surajkr35/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2465-number-of-distinct-averages](https://github.com/surajkr35/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2615-sum-of-distances](https://github.com/surajkr35/DSA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajkr35/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajkr35/DSA/tree/master/2965-find-missing-and-repeated-values) |
