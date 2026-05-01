@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/surajkr35/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/surajkr35/DSA/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajkr35/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/surajkr35/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2573-find-the-string-with-lcp](https://github.com/surajkr35/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/surajkr35/DSA/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/surajkr35/DSA/tree/master/2751-robot-collisions) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/surajkr35/DSA/tree/master/0888-fair-candy-swap) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/surajkr35/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/surajkr35/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/surajkr35/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3488-closest-equal-element-queries](https://github.com/surajkr35/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surajkr35/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Simulation
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/surajkr35/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/surajkr35/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/surajkr35/DSA/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/surajkr35/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/surajkr35/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Design
 |  |
