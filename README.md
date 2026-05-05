@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/surajkr35/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/surajkr35/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/surajkr35/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/surajkr35/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/surajkr35/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/surajkr35/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/surajkr35/DSA/tree/master/0088-merge-sorted-array) |
@@ -458,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajkr35/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/surajkr35/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
