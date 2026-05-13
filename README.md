@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/surajkr35/DSA/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/surajkr35/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surajkr35/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/surajkr35/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/surajkr35/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajkr35/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/surajkr35/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/surajkr35/DSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/surajkr35/DSA/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/surajkr35/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/surajkr35/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/surajkr35/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/surajkr35/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/surajkr35/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/surajkr35/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/surajkr35/DSA/tree/master/0724-find-pivot-index) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/surajkr35/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1991-find-the-middle-index-in-array](https://github.com/surajkr35/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2615-sum-of-distances](https://github.com/surajkr35/DSA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/surajkr35/DSA/tree/master/2906-construct-product-matrix) |
