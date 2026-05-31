@@ -4,6 +4,7 @@ class Solution {
         Arrays.sort(asteroids);
 
         long currentMass = mass;
+        
         for(int i = 0; i < n; i++){
             if (currentMass < asteroids[i]) {
                 return false;
