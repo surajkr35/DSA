@@ -1,13 +1,32 @@
+//   Using Hash-Set 
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);
+        Set<Integer> set = new HashSet<>();
         
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i] == nums[i - 1]) {
+        for (int i = 0; i < nums.length; i++) {
+            if(set.contains(nums[i])){
                 return true;
             }
+            set.add(nums[i]);
         }
         
         return false;        
     }
 }
+
+//   Using Sliding Window
+
+// class Solution {
+//     public boolean containsDuplicate(int[] nums) {
+//         Arrays.sort(nums);
+        
+//         for (int i = 1; i < nums.length; i++) {
+//             if (nums[i] == nums[i - 1]) {
+//                 return true;
+//             }
+//         }
+        
+//         return false;        
+//     }
+// }
