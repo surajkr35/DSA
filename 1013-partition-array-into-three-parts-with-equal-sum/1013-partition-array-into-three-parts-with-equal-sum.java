@@ -19,7 +19,6 @@ class Solution {
                 sum = 0;
             }
         }
-
         return count >= 3;
     }
 }
