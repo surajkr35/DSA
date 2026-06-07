@@ -5,6 +5,7 @@ class Solution {
         for (int num : arr) {
             total += num;
         }
+        
         if (total % 3 != 0) return false;
 
         int target = total / 3;
