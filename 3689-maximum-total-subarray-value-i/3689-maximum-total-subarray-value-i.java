@@ -9,6 +9,6 @@ class Solution {
             else if(nums[i] > max) max = nums[i];
         }
 
-        return k * (max - min);
+        return (long) k * (max - min);
     }
 }
