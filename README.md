@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/surajkr35/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/surajkr35/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/surajkr35/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1903-largest-odd-number-in-string](https://github.com/surajkr35/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/surajkr35/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/surajkr35/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/surajkr35/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/surajkr35/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/surajkr35/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/surajkr35/DSA/tree/master/1871-jump-game-vii) |
+| [1903-largest-odd-number-in-string](https://github.com/surajkr35/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/surajkr35/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2418-sort-the-people](https://github.com/surajkr35/DSA/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/surajkr35/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/surajkr35/DSA/tree/master/0788-rotated-digits) |
 | [0908-smallest-range-i](https://github.com/surajkr35/DSA/tree/master/0908-smallest-range-i) |
 | [1103-distribute-candies-to-people](https://github.com/surajkr35/DSA/tree/master/1103-distribute-candies-to-people) |
+| [1903-largest-odd-number-in-string](https://github.com/surajkr35/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/surajkr35/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/surajkr35/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajkr35/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
