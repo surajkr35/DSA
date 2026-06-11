@@ -4,14 +4,13 @@ class Solution {
             return false;
         }
 
-        int revHalf = 0;
+        int reversedHalf = 0;
 
-        while (x > revHalf) {
-            revHalf = revHalf * 10 + x % 10;
+        while (x > reversedHalf) {
+            reversedHalf = reversedHalf * 10 + x % 10;
             x /= 10;
         }
 
-        return x == revHalf || x == revHalf / 10;
+        return x == reversedHalf || x == reversedHalf / 10;
     }
 }
-
