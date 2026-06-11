@@ -8,7 +8,7 @@ class Solution {
             int i = start;
             int j = 0;
 
-            while (j < n && s.charAt(i % n) == goal.charAt(j)) {
+            while (j < m && s.charAt(i % n) == goal.charAt(j)) {
                 i++;
                 j++;
             }
