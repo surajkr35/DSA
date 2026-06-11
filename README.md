@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/surajkr35/DSA/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/surajkr35/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/surajkr35/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/surajkr35/DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/surajkr35/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/surajkr35/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajkr35/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/surajkr35/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/surajkr35/DSA/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/surajkr35/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/surajkr35/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/surajkr35/DSA/tree/master/0504-base-7) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/surajkr35/DSA/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/surajkr35/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/surajkr35/DSA/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
