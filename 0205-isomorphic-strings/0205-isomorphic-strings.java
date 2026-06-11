@@ -17,7 +17,6 @@ class Solution {
                 if(used.contains(ch2)){
                     return false;
                 }
-
                 map.put(ch1, ch2);
                 used.add(ch2);
             }
