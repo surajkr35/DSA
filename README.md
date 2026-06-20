@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/surajkr35/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajkr35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/surajkr35/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/surajkr35/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajkr35/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/surajkr35/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/surajkr35/DSA/tree/master/0189-rotate-array) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/surajkr35/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/surajkr35/DSA/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/surajkr35/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/surajkr35/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/surajkr35/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/surajkr35/DSA/tree/master/0394-decode-string) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/surajkr35/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/surajkr35/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/surajkr35/DSA/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/surajkr35/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/surajkr35/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/surajkr35/DSA/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/surajkr35/DSA/tree/master/0396-rotate-function) |
