@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/surajkr35/DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/surajkr35/DSA/tree/master/0303-range-sum-query-immutable) |
 | [2069-walking-robot-simulation-ii](https://github.com/surajkr35/DSA/tree/master/2069-walking-robot-simulation-ii) |
 ## Prefix Sum
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/surajkr35/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/surajkr35/DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/surajkr35/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/surajkr35/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/surajkr35/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/surajkr35/DSA/tree/master/0496-next-greater-element-i) |
