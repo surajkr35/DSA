@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/surajkr35/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/surajkr35/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/surajkr35/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/surajkr35/DSA/tree/master/0933-number-of-recent-calls) |
 | [2069-walking-robot-simulation-ii](https://github.com/surajkr35/DSA/tree/master/2069-walking-robot-simulation-ii) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/surajkr35/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/surajkr35/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/surajkr35/DSA/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/surajkr35/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/surajkr35/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajkr35/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajkr35/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surajkr35/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surajkr35/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/surajkr35/DSA/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajkr35/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajkr35/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/surajkr35/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surajkr35/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1306-jump-game-iii](https://github.com/surajkr35/DSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/surajkr35/DSA/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajkr35/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajkr35/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surajkr35/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surajkr35/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
@@ -746,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajkr35/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surajkr35/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surajkr35/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
