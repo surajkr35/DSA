@@ -13,6 +13,7 @@ class Solution {
             }
             n = n / 10;
         }
+        
         while(rev > 0){
             num = num * 10 + rev % 10;
             rev = rev / 10;
