@@ -6,17 +6,18 @@ class Solution {
 
         while(n > 0){
             int r = n % 10;
-            sum = sum + r;
 
             if(r != 0){
+                sum += r;
                 rev = rev * 10 + r;
             }
-            n = n / 10;
+
+            n /= 10;
         }
-        
+
         while(rev > 0){
             num = num * 10 + rev % 10;
-            rev = rev / 10;
+            rev /= 10;
         }
 
         return num * sum;
