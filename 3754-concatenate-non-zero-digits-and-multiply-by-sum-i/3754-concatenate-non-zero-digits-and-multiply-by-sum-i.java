@@ -6,7 +6,6 @@ class Solution {
 
         while(n > 0){
             int r = n % 10;
-
             if(r != 0){
                 sum += r;
                 rev = rev * 10 + r;
