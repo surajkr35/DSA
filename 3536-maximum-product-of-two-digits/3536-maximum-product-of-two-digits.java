@@ -5,6 +5,7 @@ class Solution {
         while(n > 0){
             int r = n % 10;
             n = n / 10;
+            
             if(r > maxSec){
                 if(r > maxOne){
                     maxSec = maxOne;
@@ -15,7 +16,7 @@ class Solution {
                 }
             }
         }
-        
+
         return maxOne * maxSec;
     }
 }
