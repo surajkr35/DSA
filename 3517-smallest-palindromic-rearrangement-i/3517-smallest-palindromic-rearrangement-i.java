@@ -15,8 +15,6 @@ class Solution {
                 while(count-->0){
                     left.append((char) (i + 'a'));
                 }
-
-                
             }
             if(freq[i] % 2 != 0){
                 middle = (char) (i + 'a');
