@@ -1,28 +1,33 @@
 class Solution {
     public String smallestPalindrome(String s) {
         int n = s.length();
-        List<Character> list = new ArrayList<>();
-        StringBuilder sb = new StringBuilder();
+        int[] freq = new int[26];
 
-        if(n % 2 == 0){
-            for(int i = 0; i < n/2; i++){
-                list.add(s.charAt(i));
-            }
-            Collections.sort(list);
-            for(char ch : list){
-                sb.append(ch);
-            }
-            return sb.toString() + sb.reverse().toString();
+        for(int i = 0; i < n; i++){
+            freq[s.charAt(i) - 'a']++;
         }
-        else {
-            for(int i = 0; i < n/2; i++){
-                list.add(s.charAt(i));
+        char middle = 0;
+        StringBuilder left = new StringBuilder();
+
+        for(int i = 0; i < 26; i++){
+            if(freq[i] > 1){
+                int count = freq[i] / 2;
+                while(count-->0){
+                    left.append((char) (i + 'a'));
+                }
+
+                
             }
-            Collections.sort(list);
-            for(char ch : list){
-                sb.append(ch);
+            if(freq[i] % 2 != 0){
+                middle = (char) (i + 'a');
             }
-            return sb.toString() + s.charAt(n/2) + sb.reverse().toString();
         }
+        StringBuilder ans = new StringBuilder(left);
+        if(middle != 0){
+            ans.append(middle);
+        }
+        ans.append(left.reverse());
+
+        return ans.toString();
     }
 }
