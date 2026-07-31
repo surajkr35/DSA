@@ -6,6 +6,7 @@ class Solution {
         for(int i = 0; i < n; i++){
             freq[word.charAt(i) - 'a']++;
         }
+
         Arrays.sort(freq);
         int count = 0;
         int push = 0;
@@ -16,6 +17,7 @@ class Solution {
                 count++;
             }
         }
+        
         return push;
     }
 }
