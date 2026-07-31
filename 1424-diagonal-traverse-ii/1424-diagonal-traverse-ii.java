@@ -12,7 +12,6 @@ class Solution {
                 total++;
             }
         }
-
         int[] ans = new int[total];
         int idx = 0;
 
