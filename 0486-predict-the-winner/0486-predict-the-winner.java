@@ -12,6 +12,7 @@ class Solution {
             return solve(nums, i + 1, j, p1 + nums[i], p2, false) ||
                    solve(nums, i, j - 1, p1 + nums[j], p2, false);
         } 
+        
         else { 
             return solve(nums, i + 1, j, p1, p2 + nums[i], true) &&
                    solve(nums, i, j - 1, p1, p2 + nums[j], true);
