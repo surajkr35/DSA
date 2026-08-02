@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/surajkr35/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/surajkr35/DSA/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/surajkr35/DSA/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/surajkr35/DSA/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/surajkr35/DSA/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/surajkr35/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/surajkr35/DSA/tree/master/0905-sort-array-by-parity) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/surajkr35/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/surajkr35/DSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/surajkr35/DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/surajkr35/DSA/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/surajkr35/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/surajkr35/DSA/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surajkr35/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/surajkr35/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajkr35/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/surajkr35/DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/surajkr35/DSA/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/surajkr35/DSA/tree/master/0908-smallest-range-i) |
 | [1103-distribute-candies-to-people](https://github.com/surajkr35/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1903-largest-odd-number-in-string](https://github.com/surajkr35/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -808,4 +811,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/surajkr35/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/surajkr35/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
