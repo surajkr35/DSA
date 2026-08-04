@@ -33,7 +33,6 @@ class Solution {
             prev = curr;
             curr = temp;
         }
-
         if (left == 1)
             head = prev;
         else
