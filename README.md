@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/surajkr35/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/surajkr35/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/surajkr35/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0330-patching-array](https://github.com/surajkr35/DSA/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/surajkr35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajkr35/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/surajkr35/DSA/tree/master/0396-rotate-function) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/surajkr35/DSA/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/surajkr35/DSA/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/surajkr35/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/surajkr35/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/surajkr35/DSA/tree/master/0605-can-place-flowers) |
