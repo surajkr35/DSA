@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/surajkr35/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/surajkr35/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/surajkr35/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/surajkr35/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/surajkr35/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/surajkr35/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/surajkr35/DSA/tree/master/0344-reverse-string) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajkr35/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/surajkr35/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/surajkr35/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/surajkr35/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/surajkr35/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/surajkr35/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/surajkr35/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/surajkr35/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/surajkr35/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/surajkr35/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/surajkr35/DSA/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/surajkr35/DSA/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/surajkr35/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/surajkr35/DSA/tree/master/0441-arranging-coins) |
@@ -828,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/surajkr35/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/surajkr35/DSA/tree/master/0877-stone-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/surajkr35/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
