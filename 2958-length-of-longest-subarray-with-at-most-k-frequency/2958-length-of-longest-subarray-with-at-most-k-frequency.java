@@ -14,8 +14,8 @@ class Solution {
             }
             
             maxLen = Math.max(maxLen, i - x + 1);
-            
         }
+        
         return maxLen;
     }
 }
