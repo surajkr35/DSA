@@ -21,7 +21,6 @@ class Solution {
         return ans;
 
     }
-
     private void postOrder(TreeNode root, List<Integer> ans){
         if(root == null) return;
 
