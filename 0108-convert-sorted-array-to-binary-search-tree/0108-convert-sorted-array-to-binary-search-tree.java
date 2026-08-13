@@ -20,6 +20,7 @@ class Solution {
     }
 
     private TreeNode BST(int[] nums, int left, int right){
+        
         if(left > right) return null;
 
         int mid = left + (right - left) / 2;
