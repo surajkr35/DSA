@@ -19,14 +19,9 @@ class Solution {
             return true;
         }
 
-        int leftHeight = height(root.left);
-        int rightHeight = height(root.right);
+        if(height(root) == -1) return false;
 
-        if (Math.abs(leftHeight - rightHeight) > 1) {
-            return false;
-        }
-
-        return isBalanced(root.left) && isBalanced(root.right);
+        return true;
     }
 
     private int height(TreeNode root) {
@@ -35,7 +30,13 @@ class Solution {
         }
 
         int left = height(root.left);
+        if(left == -1) return -1;
+
         int right = height(root.right);
+        if(right == -1) return -1;
+
+        if (Math.abs(left - right) > 1)
+            return -1;
 
         return 1 + Math.max(left, right);
     }
