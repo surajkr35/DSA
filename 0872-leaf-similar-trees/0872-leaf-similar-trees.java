@@ -9,6 +9,7 @@ class Solution {
         return list1.equals(list2);
         
     }
+    
     private void check(TreeNode r, List<Integer> list){
         if(r == null) return;
 
