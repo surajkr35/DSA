@@ -7,7 +7,6 @@ class Solution {
 
         return head.right;
     }
-
     private void incOrder(TreeNode root) {
         if (root == null) return;
 
