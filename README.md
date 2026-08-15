@@ -767,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/surajkr35/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/surajkr35/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1306-jump-game-iii](https://github.com/surajkr35/DSA/tree/master/1306-jump-game-iii) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajkr35/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/surajkr35/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/surajkr35/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surajkr35/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1306-jump-game-iii](https://github.com/surajkr35/DSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/surajkr35/DSA/tree/master/1345-jump-game-iv) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajkr35/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajkr35/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Linked List
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/surajkr35/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/surajkr35/DSA/tree/master/0897-increasing-order-search-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/surajkr35/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -899,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/surajkr35/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/surajkr35/DSA/tree/master/0897-increasing-order-search-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/surajkr35/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
 |  |
