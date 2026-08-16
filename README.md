@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surajkr35/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/surajkr35/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/surajkr35/DSA/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/surajkr35/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/surajkr35/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/surajkr35/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surajkr35/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/surajkr35/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/surajkr35/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surajkr35/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1306-jump-game-iii](https://github.com/surajkr35/DSA/tree/master/1306-jump-game-iii) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surajkr35/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/surajkr35/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/surajkr35/DSA/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/surajkr35/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/surajkr35/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
