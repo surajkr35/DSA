@@ -1,20 +1,26 @@
 class Solution {
-    int maxLevel = -1;
-    int ans = 0;
     public int findBottomLeftValue(TreeNode root) {
-        value(root, 0);
+        Queue<TreeNode> q = new LinkedList<>();
+        List<Integer> ans = new ArrayList<>();
 
-        return ans;
-    }
-    private void value(TreeNode root, int level){
-        if(root == null) return;
+        q.add(root);
 
-        if(level > maxLevel){
-            maxLevel = level;
-            ans = root.val;
+        while(!q.isEmpty()){
+            int size = q.size();
+            ans.clear();
+
+            for(int i = 0; i < size; i++){
+                TreeNode temp = q.remove();
+                ans.add(temp.val);
+
+                if(temp.left != null){
+                    q.add(temp.left);
+                }
+                if(temp.right != null){
+                    q.add(temp.right);
+                }
+            }
         }
-
-        value(root.left, level + 1);
-        value(root.right, level + 1);
+        return ans.get(0);
     }
 }
