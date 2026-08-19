@@ -19,6 +19,8 @@ class Solution {
             return;
         }
 
-        helper(root.right, k);
+        if(count < k){
+            helper(root.right, k);
+        }
     }
 }
