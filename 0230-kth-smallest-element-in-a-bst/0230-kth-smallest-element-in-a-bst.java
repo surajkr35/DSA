@@ -11,11 +11,12 @@ class Solution {
         if(root == null) return;
 
         helper(root.left, k);
-        
+
         count++;
 
         if(count == k){
             ans = root.val;
+            return;
         }
 
         helper(root.right, k);
