@@ -1,4 +1,4 @@
-//   ~ Optimized Approach (Two - Pointers)  - O(n) Time Complexuty
+//   ~ Optimized Approach (Two - Pointers)  - O(n) Time Complexity
 
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
@@ -26,29 +26,6 @@ class Solution {
         return ans;
     }
 }
-
-// ______________________________________________________________________ 
-
-    // ~ Brute Force  - O(n2) Time Complexity
-
-// class Solution {
-//     public int[] twoSum(int[] numbers, int target) {
-//         int n = numbers.length;
-
-//         for(int i = 0; i < n; i++){
-
-//             for(int j = i + 1; j < n; j++){
-//                 if(numbers[j] == target - numbers[i]){
-//                     return new int[] {i + 1, j + 1};
-//                 }
-//                 else if(numbers[j] + numbers[i] > target){
-//                     break;
-//                 }
-//             }
-//         }
-//         return new int[2];
-//     }
-// }
 //   _____________________________________________________________
 
 //   ~ Binary Search Approach  - O(n log n) Time Complexity
@@ -78,6 +55,28 @@ class Solution {
 //             }
 //         }
 
+//         return new int[2];
+//     }
+// }
+// ______________________________________________________________________ 
+
+    // ~ Brute Force  - O(n²) Time Complexity
+
+// class Solution {
+//     public int[] twoSum(int[] numbers, int target) {
+//         int n = numbers.length;
+
+//         for(int i = 0; i < n; i++){
+
+//             for(int j = i + 1; j < n; j++){
+//                 if(numbers[j] == target - numbers[i]){
+//                     return new int[] {i + 1, j + 1};
+//                 }
+//                 else if(numbers[j] + numbers[i] > target){
+//                     break;
+//                 }
+//             }
+//         }
 //         return new int[2];
 //     }
 // }
