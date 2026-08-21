@@ -6,7 +6,6 @@ class Solution {
         helper(root);
         return min;
     }
-
     private void helper(TreeNode root){
         if(root == null) return;
 
@@ -15,7 +14,7 @@ class Solution {
         if(prev != null){
             min = Math.min(min, Math.abs(prev - root.val));
         }
-        
+
         prev = root.val;
 
         helper(root.right);
