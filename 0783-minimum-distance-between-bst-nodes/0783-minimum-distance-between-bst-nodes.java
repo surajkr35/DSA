@@ -14,7 +14,6 @@ class Solution {
         if(prev != null){
             min = Math.min(min, Math.abs(prev - root.val));
         }
-
         prev = root.val;
 
         helper(root.right);
