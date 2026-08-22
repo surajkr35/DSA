@@ -17,7 +17,6 @@ class Solution {
                 j++;
             }
         }
-
         int[] ans = new int[j];
         for(int i = 0; i < j; i++){
             ans[i] = nums[i];
