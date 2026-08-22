@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/surajkr35/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surajkr35/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/surajkr35/DSA/tree/master/3838-weighted-word-mapping) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/surajkr35/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/surajkr35/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/surajkr35/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajkr35/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/surajkr35/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
 |  |
 | ------- |
