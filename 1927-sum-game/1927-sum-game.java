@@ -33,7 +33,6 @@ class Solution {
         if(sumDiff == 9 * QMarkDiff / 2){
             return false;
         }
-
         return true;
     }
 }
