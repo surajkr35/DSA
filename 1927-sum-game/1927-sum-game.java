@@ -26,13 +26,14 @@ class Solution {
         if(totalQMark % 2 == 1){
             return true;
         }
-
         int sumDiff = leftSum - rightSum;
         int QMarkDiff = rightQMark - leftQMark;
 
         if(sumDiff == 9 * QMarkDiff / 2){
             return false;
         }
-        return true;
+        else {
+            return true;
+        }
     }
 }
