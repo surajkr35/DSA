@@ -22,7 +22,6 @@ class Solution {
                 rightSum += ch - '0';
             }
         }
-
         int totalQMark = leftQMark + rightQMark;
         if(totalQMark % 2 == 1){
             return true;
