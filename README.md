@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/surajkr35/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/surajkr35/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/surajkr35/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/surajkr35/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/surajkr35/DSA/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/surajkr35/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surajkr35/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/surajkr35/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/surajkr35/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/surajkr35/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/surajkr35/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/surajkr35/DSA/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/surajkr35/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/surajkr35/DSA/tree/master/0441-arranging-coins) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/surajkr35/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/surajkr35/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/surajkr35/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/surajkr35/DSA/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/surajkr35/DSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/surajkr35/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/surajkr35/DSA/tree/master/0509-fibonacci-number) |
