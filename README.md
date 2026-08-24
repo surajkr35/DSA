@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/surajkr35/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/surajkr35/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/surajkr35/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/surajkr35/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/surajkr35/DSA/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/surajkr35/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/surajkr35/DSA/tree/master/0441-arranging-coins) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/surajkr35/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/surajkr35/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/surajkr35/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/surajkr35/DSA/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/surajkr35/DSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/surajkr35/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/surajkr35/DSA/tree/master/0509-fibonacci-number) |
