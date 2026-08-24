@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/surajkr35/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajkr35/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/surajkr35/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1046-last-stone-weight](https://github.com/surajkr35/DSA/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/surajkr35/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/surajkr35/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/surajkr35/DSA/tree/master/1288-remove-covered-intervals) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/surajkr35/DSA/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/surajkr35/DSA/tree/master/1046-last-stone-weight) |
 | [1424-diagonal-traverse-ii](https://github.com/surajkr35/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajkr35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
