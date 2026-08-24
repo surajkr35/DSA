@@ -11,7 +11,6 @@ class Solution {
             len++;
             i--;
         }
-
         return len;
     }
 }
