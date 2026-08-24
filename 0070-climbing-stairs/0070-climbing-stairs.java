@@ -7,7 +7,6 @@ class Solution {
         if(n <= 3){
             return n;
         }
-
         for(int i = 4; i <= n; i++){
             a = b;
             b = c;
