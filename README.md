@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/surajkr35/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/surajkr35/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/surajkr35/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/surajkr35/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/surajkr35/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/surajkr35/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/surajkr35/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/surajkr35/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/surajkr35/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/surajkr35/DSA/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/surajkr35/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/surajkr35/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/surajkr35/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/surajkr35/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/surajkr35/DSA/tree/master/0257-binary-tree-paths) |
 ## Data Stream
