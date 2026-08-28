@@ -2,6 +2,7 @@ class Solution {
     public void solveSudoku(char[][] board) {
         solver(board, 0, 0);
     }
+    
     private boolean solver(char[][] board, int row, int col){
         if(row == 9){
             return true;
