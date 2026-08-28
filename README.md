@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajkr35/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/surajkr35/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/surajkr35/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/surajkr35/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/surajkr35/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/surajkr35/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/surajkr35/DSA/tree/master/0048-rotate-image) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/surajkr35/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajkr35/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/surajkr35/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/surajkr35/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/surajkr35/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/surajkr35/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/surajkr35/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/surajkr35/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/surajkr35/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/surajkr35/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/surajkr35/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/surajkr35/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/surajkr35/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/surajkr35/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/surajkr35/DSA/tree/master/0078-subsets) |
@@ -1080,6 +1084,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/surajkr35/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/surajkr35/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/surajkr35/DSA/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/surajkr35/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
