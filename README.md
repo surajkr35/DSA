@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/surajkr35/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/surajkr35/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/surajkr35/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/surajkr35/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/surajkr35/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/surajkr35/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/surajkr35/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/surajkr35/DSA/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/surajkr35/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/surajkr35/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/surajkr35/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/surajkr35/DSA/tree/master/0257-binary-tree-paths) |
@@ -1074,4 +1076,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/surajkr35/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/surajkr35/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
