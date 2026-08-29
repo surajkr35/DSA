@@ -6,6 +6,7 @@ class Solution {
         ans.add(list);
 
         helper(1, numRows, list, ans);
+        
         return ans;
     }
 
