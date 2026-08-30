@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/surajkr35/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/surajkr35/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/surajkr35/DSA/tree/master/1046-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/surajkr35/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/surajkr35/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/surajkr35/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/surajkr35/DSA/tree/master/1288-remove-covered-intervals) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/surajkr35/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/surajkr35/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajkr35/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/surajkr35/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/surajkr35/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/surajkr35/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/surajkr35/DSA/tree/master/1340-jump-game-v) |
