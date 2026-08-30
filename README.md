@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surajkr35/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/surajkr35/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/surajkr35/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1710-maximum-units-on-a-truck](https://github.com/surajkr35/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/surajkr35/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajkr35/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/surajkr35/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/surajkr35/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/surajkr35/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/surajkr35/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1710-maximum-units-on-a-truck](https://github.com/surajkr35/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/surajkr35/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/surajkr35/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/surajkr35/DSA/tree/master/2029-stone-game-ix) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/surajkr35/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajkr35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/surajkr35/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1710-maximum-units-on-a-truck](https://github.com/surajkr35/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/surajkr35/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/surajkr35/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/surajkr35/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
