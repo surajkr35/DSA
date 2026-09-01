@@ -12,7 +12,6 @@ class Solution {
                 minHeap.offer(nums[i]);
             }
         }
-
         return minHeap.peek();
     }
 }
