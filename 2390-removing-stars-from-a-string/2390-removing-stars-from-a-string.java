@@ -6,11 +6,8 @@ class Solution {
         for(int i = 0; i < n; i++){
             char ch = s.charAt(i);
 
-            if(ch == '*'){
-                if(sb.length() > 0){
-                    sb.deleteCharAt(sb.length() - 1);
-                }
-                
+            if(ch == '*' && sb.length() > 0){
+                sb.deleteCharAt(sb.length() - 1);
             }
             else {
                 sb.append(ch);
