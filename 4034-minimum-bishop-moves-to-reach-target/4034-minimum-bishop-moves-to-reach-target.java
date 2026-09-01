@@ -1,5 +1,9 @@
 class Solution {
     public int minBishopMoves(int[] source, int[] target) {
+        if(source[0] == target[0] && source[1] == target[1]){
+            return 0;
+        }
+
         int n1 = source[0] + source[1];
         int n2 = target[0] + target[1];
 
