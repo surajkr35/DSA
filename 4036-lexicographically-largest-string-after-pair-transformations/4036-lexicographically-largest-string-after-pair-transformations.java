@@ -8,7 +8,7 @@ class Solution {
         for(int i = 1; i < 26; i++){
             arr[i] = arr[i-1] * 2;
         }
-
+        
         for(int i = 0; i < n; i++){
             int num = nums[i];
             StringBuilder sb = new StringBuilder();
