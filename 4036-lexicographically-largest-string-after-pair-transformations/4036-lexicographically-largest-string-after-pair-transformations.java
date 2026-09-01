@@ -2,7 +2,7 @@ class Solution {
     public String[] largestString(int[] nums) {
         int n = nums.length;
         String[] ans = new String[n];
-        long[] arr = new long[26];
+        int[] arr = new int[26];
         arr[0] = 1;
 
         for(int i = 1; i < 26; i++){
@@ -17,7 +17,7 @@ class Solution {
                 for(int j = 25; j >= 0; j--){
                     if(arr[j] <= num){
                         sb.append((char) (j + 'a'));
-                        num = num - (int) arr[j];
+                        num = num - arr[j];
                         break;
                     }
                 }
