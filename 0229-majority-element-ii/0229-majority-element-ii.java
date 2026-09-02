@@ -1,5 +1,4 @@
     // ~ Optimal Solution (Boyer–Moore Voting Algorithm)  ~ O(n) Time & O(1) Space Complexity
-
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
         int n = nums.length;
