@@ -47,7 +47,7 @@ class Solution {
     }
 }
 // _________________________________________________________________
-    // ~ Using Sorting 
+//     ~ Using Sorting 
 
 // class Solution {
 //     public List<Integer> majorityElement(int[] nums) {
