@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/surajkr35/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajkr35/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/surajkr35/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/surajkr35/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajkr35/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surajkr35/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/surajkr35/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/surajkr35/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/surajkr35/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/surajkr35/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/surajkr35/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/surajkr35/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/surajkr35/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/surajkr35/DSA/tree/master/0342-power-of-four) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/surajkr35/DSA/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/surajkr35/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajkr35/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/surajkr35/DSA/tree/master/3546-equal-sum-grid-partition-i) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/surajkr35/DSA/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajkr35/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajkr35/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/surajkr35/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1167,4 +1171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/surajkr35/DSA/tree/master/0493-reverse-pairs) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/surajkr35/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/surajkr35/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/surajkr35/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
