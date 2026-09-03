@@ -6,7 +6,7 @@ class Solution {
         int count = 0;
         int prime[] = new int[n];
 
-        for(int i = 2; i < Math.sqrt(n); i++){
+        for(int i = 2; i * i < n; i++){
             if(prime[i] == 0){
                 for(int j = i * i; j < n; j += i){
                     prime[j] = 1;
