@@ -1,7 +1,6 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
         int n = nums.length;
-        int idx = -1;
         int[] minAtIdx = new int[n];
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
@@ -15,11 +14,10 @@ class Solution {
             max = Math.max(nums[i], max);
 
             if(max - minAtIdx[i] <= k){
-                idx = i;
-                break;
+                return i;
             }
         }
 
-        return idx;
+        return -1;
     }
 }
