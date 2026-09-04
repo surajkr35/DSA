@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/surajkr35/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/surajkr35/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/surajkr35/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/surajkr35/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/surajkr35/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/surajkr35/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/surajkr35/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/surajkr35/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/surajkr35/DSA/tree/master/0055-jump-game) |
 | [0330-patching-array](https://github.com/surajkr35/DSA/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/surajkr35/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/surajkr35/DSA/tree/master/0561-array-partition) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/surajkr35/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/surajkr35/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/surajkr35/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/surajkr35/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/surajkr35/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/surajkr35/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajkr35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
