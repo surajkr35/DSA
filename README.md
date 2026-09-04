@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/surajkr35/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/surajkr35/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/surajkr35/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/surajkr35/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/surajkr35/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/surajkr35/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/surajkr35/DSA/tree/master/0051-n-queens) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/surajkr35/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/surajkr35/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/surajkr35/DSA/tree/master/0055-jump-game) |
 | [0330-patching-array](https://github.com/surajkr35/DSA/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/surajkr35/DSA/tree/master/0455-assign-cookies) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/surajkr35/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/surajkr35/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/surajkr35/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/surajkr35/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/surajkr35/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/surajkr35/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/surajkr35/DSA/tree/master/0070-climbing-stairs) |
