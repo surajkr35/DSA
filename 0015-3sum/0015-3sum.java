@@ -2,7 +2,7 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         int n = nums.length;
         Arrays.sort(nums);
-        
+
         List<List<Integer>> ans = new ArrayList<>();
 
         for(int i = 0; i < n - 2; i++){
@@ -22,7 +22,6 @@ class Solution {
                 }
                 else {
                     ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
-
                     j++;
                     k--;
 
