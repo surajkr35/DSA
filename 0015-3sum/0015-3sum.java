@@ -30,7 +30,6 @@ class Solution {
                 }
             }
         }
-
         return res;
     }
 }
