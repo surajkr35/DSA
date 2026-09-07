@@ -5,7 +5,7 @@ class Solution {
 
         for(int i = 0; i < r; i++){
             for(int j = 0; j < c; j++){
-                if(check(board, i, j, word, 0)){
+                if(word.charAt(0) == board[i][j] && check(board, i, j, word, 0)){
                     return true;
                 }
             }
