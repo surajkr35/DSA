@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/surajkr35/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/surajkr35/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/surajkr35/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/surajkr35/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/surajkr35/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/surajkr35/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/surajkr35/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/surajkr35/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/surajkr35/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/surajkr35/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/surajkr35/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajkr35/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/surajkr35/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/surajkr35/DSA/tree/master/0566-reshape-the-matrix) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajkr35/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/surajkr35/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/surajkr35/DSA/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/surajkr35/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/surajkr35/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/surajkr35/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/surajkr35/DSA/tree/master/0205-isomorphic-strings) |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/surajkr35/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajkr35/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/surajkr35/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/surajkr35/DSA/tree/master/0101-symmetric-tree) |
@@ -980,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/surajkr35/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/surajkr35/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/surajkr35/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/surajkr35/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/surajkr35/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/surajkr35/DSA/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/surajkr35/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
