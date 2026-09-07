@@ -17,7 +17,7 @@ class Solution {
             return true;
         }
 
-        if(r < 0 || r >= board.length || c < 0 || c >= board[0].length || s.charAt(i) != board[r][c]){
+        if(r < 0 || r >= board.length || c < 0 || c >= board[0].length || s.charAt(i) != board[r][c] || board[r][c] == 'X'){
             return false;
         }
 
