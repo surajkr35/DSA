@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/surajkr35/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/surajkr35/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/surajkr35/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/surajkr35/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/surajkr35/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/surajkr35/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/surajkr35/DSA/tree/master/0867-transpose-matrix) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/surajkr35/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/surajkr35/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/surajkr35/DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/surajkr35/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/surajkr35/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/surajkr35/DSA/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/surajkr35/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
