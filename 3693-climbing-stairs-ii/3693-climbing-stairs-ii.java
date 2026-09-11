@@ -13,6 +13,7 @@ class Solution {
         for(int i = 4; i <= n; i++){
             dp[i] = Math.min(dp[i-1] + 1, Math.min(dp[i-2] + 4, dp[i-3] + 9)) + costs[i-1];
         }
+        
         return dp[n];
     }
 }
