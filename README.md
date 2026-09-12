@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/surajkr35/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/surajkr35/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/surajkr35/DSA/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/surajkr35/DSA/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/surajkr35/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/surajkr35/DSA/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surajkr35/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/surajkr35/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/surajkr35/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/surajkr35/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/surajkr35/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/surajkr35/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/surajkr35/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/surajkr35/DSA/tree/master/1871-jump-game-vii) |
@@ -1250,4 +1252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/surajkr35/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/surajkr35/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
