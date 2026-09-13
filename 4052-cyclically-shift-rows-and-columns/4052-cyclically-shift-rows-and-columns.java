@@ -15,6 +15,7 @@ class Solution {
                 col[k][j] = row[i][j];
             }
         }
+        
         return col;
     }    
 }
