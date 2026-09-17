@@ -814,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/surajkr35/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/surajkr35/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/surajkr35/DSA/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/surajkr35/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/surajkr35/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/surajkr35/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/surajkr35/DSA/tree/master/0367-valid-perfect-square) |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/surajkr35/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/surajkr35/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/surajkr35/DSA/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/surajkr35/DSA/tree/master/1927-sum-game) |
@@ -1208,10 +1210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/surajkr35/DSA/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/surajkr35/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/surajkr35/DSA/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/surajkr35/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1299,4 +1303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/surajkr35/DSA/tree/master/0322-coin-change) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/surajkr35/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/surajkr35/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
