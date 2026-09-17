@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/surajkr35/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/surajkr35/DSA/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/surajkr35/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/surajkr35/DSA/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/surajkr35/DSA/tree/master/0657-robot-return-to-origin) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/surajkr35/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/surajkr35/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/surajkr35/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/surajkr35/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/surajkr35/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/surajkr35/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/surajkr35/DSA/tree/master/0367-valid-perfect-square) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/surajkr35/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/surajkr35/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajkr35/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajkr35/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/surajkr35/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
