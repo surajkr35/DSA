@@ -841,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/surajkr35/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1103-distribute-candies-to-people](https://github.com/surajkr35/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajkr35/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/surajkr35/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/surajkr35/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/surajkr35/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/surajkr35/DSA/tree/master/1927-sum-game) |
@@ -1291,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/surajkr35/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/surajkr35/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/surajkr35/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## K-D Tree
 |  |
 | ------- |
