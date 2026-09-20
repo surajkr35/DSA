@@ -7,7 +7,7 @@ class Solution {
             int revIdx = 'z' - s.charAt(i) + 1;
             ans += revIdx * (i + 1);
         }
-
+        
         return ans;
     }
 }
