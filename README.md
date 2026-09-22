@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/surajkr35/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/surajkr35/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/surajkr35/DSA/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/surajkr35/DSA/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajkr35/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surajkr35/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/surajkr35/DSA/tree/master/0561-array-partition) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/surajkr35/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/surajkr35/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/surajkr35/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/surajkr35/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/surajkr35/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/surajkr35/DSA/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/surajkr35/DSA/tree/master/0575-distribute-candies) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/surajkr35/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/surajkr35/DSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/surajkr35/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/surajkr35/DSA/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/surajkr35/DSA/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/surajkr35/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/surajkr35/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
