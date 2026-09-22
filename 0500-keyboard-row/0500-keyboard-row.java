@@ -20,14 +20,12 @@ class Solution {
                 find = s3;
             }
             boolean found = true;
-
             for(char ch : s.toCharArray()){
                 if(find.indexOf(ch) == -1){
                     found = false;
                     break;
                 }
             }
-            
             if(found){
                 ans.add(word);
             }
