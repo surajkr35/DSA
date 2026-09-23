@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/surajkr35/DSA/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/surajkr35/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/surajkr35/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajkr35/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/surajkr35/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/surajkr35/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1710-maximum-units-on-a-truck](https://github.com/surajkr35/DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/surajkr35/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/surajkr35/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/surajkr35/DSA/tree/master/0888-fair-candy-swap) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajkr35/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1818-minimum-absolute-sum-difference](https://github.com/surajkr35/DSA/tree/master/1818-minimum-absolute-sum-difference) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/surajkr35/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/surajkr35/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/surajkr35/DSA/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajkr35/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/surajkr35/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajkr35/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/surajkr35/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/surajkr35/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/surajkr35/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/surajkr35/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/surajkr35/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/surajkr35/DSA/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajkr35/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/surajkr35/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/surajkr35/DSA/tree/master/1871-jump-game-vii) |
 | [1991-find-the-middle-index-in-array](https://github.com/surajkr35/DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/surajkr35/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/surajkr35/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/surajkr35/DSA/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajkr35/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/surajkr35/DSA/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/surajkr35/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/surajkr35/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
