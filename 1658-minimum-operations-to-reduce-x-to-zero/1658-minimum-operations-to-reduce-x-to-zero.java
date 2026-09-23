@@ -22,7 +22,6 @@ class Solution {
 
         for(int i = 0; i < n; i++){
             sum += nums[i];
-
             while(sum > target){
                 sum -= nums[left];
                 left++;
