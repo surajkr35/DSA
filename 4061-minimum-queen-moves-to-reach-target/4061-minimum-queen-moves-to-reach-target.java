@@ -1,14 +1,20 @@
 class Solution {
     public int minQueenMoves(int[] source, int[] target) {
-        if(source[0] == target[0] && source[1] == target[1]){
+        int sr = source[0];
+        int sc = source[1];
+
+        int tr = target[0];
+        int tc = target[1];
+
+        if(sr == tr && sc == tc){
             return 0;
         }
 
-        if(source[0] == target[0] || source[1] == target[1]){
+        if(sr == tr || sc == tc){
             return 1;
         }
-
-        if(Math.abs(source[0] - target[0]) == Math.abs(source[1] - target[1])){
+        
+        if(Math.abs(sr - tr) == Math.abs(sc - tc)){
             return 1;
         }
 
