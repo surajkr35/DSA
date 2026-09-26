@@ -9,18 +9,16 @@ class Solution {
         }
         for(int i = 0; i < n; i++){
             if(s.charAt(i) == '('){
-                i++;
+                int startIdx = i + 1;
+                int endIdx = s.indexOf(')', startIdx);
 
-                StringBuilder key = new StringBuilder();
-
-                while(s.charAt(i) != ')'){
-                    key.append(s.charAt(i));
-                    i++;
-                }
+                String key = s.substring(startIdx, endIdx);
 
                 String value = map.getOrDefault(key.toString() , "?");
 
                 sb.append(value);
+
+                i = endIdx;
             } 
             else {
                 sb.append(s.charAt(i));
