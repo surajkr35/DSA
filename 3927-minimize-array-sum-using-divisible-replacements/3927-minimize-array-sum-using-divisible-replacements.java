@@ -14,6 +14,7 @@ class Solution {
         for(int num : nums){
             min[num] = num;
         }
+        
         for(int num : nums){
             if(min[num] < num){
                 continue;
