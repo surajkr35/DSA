@@ -25,7 +25,6 @@ class Solution {
                 sb.append(s.charAt(i));
             }
         }
-
         return sb.toString();
     }
 }
