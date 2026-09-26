@@ -7,7 +7,6 @@ class Solution {
         for(List<String> row : knowledge){
             map.put(row.get(0), row.get(1));
         }
-        
         for(int i = 0; i < n; i++){
             if(s.charAt(i) == '('){
                 int startIdx = i + 1;
