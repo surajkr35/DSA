@@ -4,17 +4,16 @@ class Solution {
         long sum = 0;
 
         for(int num : nums){
-            if(num == 1) 
-            return nums.length;
+            if(num == 1) return nums.length;
             if(num > max){
                 max = num;
             }
         }
-
         int[] min = new int[max+1];
 
-        for(int num : nums) min[num] = num;
-
+        for(int num : nums){
+            min[num] = num;
+        }
         for(int num : nums){
             if(min[num] < num){
                 continue;
