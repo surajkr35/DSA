@@ -4,7 +4,6 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         Map<String, String> map = new HashMap<>();
  
- 
         for(List<String> row : knowledge){
             map.put(row.get(0), row.get(1));
         }
