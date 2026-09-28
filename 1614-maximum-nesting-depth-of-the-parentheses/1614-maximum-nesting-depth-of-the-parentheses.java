@@ -8,11 +8,11 @@ class Solution {
                 count++;
                 maxDepth = Math.max(maxDepth, count);
             }
+            
             else if(ch == ')'){
                 count--;
             }
         }
-        
         return maxDepth;
     }
 }
