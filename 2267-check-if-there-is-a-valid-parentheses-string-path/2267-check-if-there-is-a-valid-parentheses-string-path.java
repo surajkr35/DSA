@@ -16,7 +16,6 @@ class Solution {
         if(i >= grid.length || j == grid[0].length){
             return false;
         }
-
         if(grid[i][j] == '('){
             count++;
         }
