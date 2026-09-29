@@ -16,6 +16,7 @@ class Solution {
         if(i >= grid.length || j == grid[0].length){
             return false;
         }
+
         if(grid[i][j] == '('){
             count++;
         }
@@ -25,6 +26,10 @@ class Solution {
             if(count < 0){
                 return false;
             }
+        }
+        int remaining = (grid.length - 1 - i) + (grid[0].length - 1 - j);
+        if (count > remaining) {
+            return false;
         }
 
         if(i == grid.length - 1 && j == grid[0].length - 1){
