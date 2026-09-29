@@ -1,6 +1,4 @@
 class Solution {
-    Boolean[][][] dp;
-
     public boolean hasValidPath(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
@@ -9,12 +7,12 @@ class Solution {
             return false;
         }
 
-        dp = new Boolean[m][n][m + n];
+        Boolean[][][] dp = new Boolean[m][n][m + n];
 
-        return helper(grid, 0, 0, 0);
+        return helper(grid, 0, 0, 0, dp);
     }
 
-    private boolean helper(char[][] grid, int i, int j, int count){
+    private boolean helper(char[][] grid, int i, int j, int count, Boolean[][][] dp){
         if(i >= grid.length || j == grid[0].length){
             return false;
         }
@@ -38,8 +36,8 @@ class Solution {
             return dp[i][j][count];
         }
         
-        boolean right = helper(grid, i, j + 1, count);
-        boolean down = helper(grid, i + 1, j, count);
+        boolean right = helper(grid, i, j + 1, count, dp);
+        boolean down = helper(grid, i + 1, j, count, dp);
 
         dp[i][j][count] = right || down;
 
