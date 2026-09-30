@@ -8,7 +8,6 @@ class Solution {
         int idxZero = 0;
 
         for(int i = 0; i < n; i++){
-            product *= nums[i];
             if(nums[i] == 0){
                 countZero++;
                 idxZero = i;
@@ -26,7 +25,7 @@ class Solution {
         else {
             for(int i = 0; i < n; i++){
               
-                ans[i] = product / nums[i];
+                ans[i] = productWithoutZero / nums[i];
             }
         }
         return ans;
