@@ -18,7 +18,6 @@ class Solution {
                 pq.poll();
             }
         }
-
         for(int i = 0; i < k; i++){
             ans[i] = pq.poll();
         }
