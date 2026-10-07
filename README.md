@@ -792,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/surajkr35/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/surajkr35/DSA/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/surajkr35/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/surajkr35/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/surajkr35/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/surajkr35/DSA/tree/master/0383-ransom-note) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/surajkr35/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/surajkr35/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/surajkr35/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/surajkr35/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/surajkr35/DSA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/surajkr35/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/surajkr35/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/surajkr35/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/surajkr35/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/surajkr35/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/surajkr35/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/surajkr35/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Data Stream
 |  |
