@@ -10,24 +10,35 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        int n = 0;
-        Stack<ListNode> stack = new Stack<>();
+        ListNode slow = head;
+        ListNode fast = head;
 
-        ListNode curr = head;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        ListNode prev = null;
+        ListNode curr = slow.next;
+        slow.next = null;
 
         while(curr != null){
-            n++;
-            stack.push(curr);
-            curr = curr.next;
-        }
-
-        curr = head;
-        for(int i = 0; i < n / 2; i++){
             ListNode next = curr.next;
-            curr.next = stack.pop();
-            curr.next.next = next;
+            curr.next = prev;
+            prev = curr;
             curr = next;
         }
-        curr.next = null;
+        ListNode first = head;
+        ListNode sec = prev;
+
+        while(sec != null){
+            ListNode next1 = first.next;
+            ListNode next2 = sec.next;
+            first.next = sec;
+            sec.next = next1;
+
+            first = next1;
+            sec = next2;
+        }
     }
 }
