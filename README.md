@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/surajkr35/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/surajkr35/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/surajkr35/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/surajkr35/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2404-most-frequent-even-element](https://github.com/surajkr35/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/surajkr35/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/surajkr35/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajkr35/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/surajkr35/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/surajkr35/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/surajkr35/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2573-find-the-string-with-lcp](https://github.com/surajkr35/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2706-buy-two-chocolates](https://github.com/surajkr35/DSA/tree/master/2706-buy-two-chocolates) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/surajkr35/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/surajkr35/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/surajkr35/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/surajkr35/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/surajkr35/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/surajkr35/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/surajkr35/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/surajkr35/DSA/tree/master/2465-number-of-distinct-averages) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/surajkr35/DSA/tree/master/1818-minimum-absolute-sum-difference) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/surajkr35/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/surajkr35/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/surajkr35/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/surajkr35/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/surajkr35/DSA/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/surajkr35/DSA/tree/master/3161-block-placement-queries) |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/surajkr35/DSA/tree/master/1046-last-stone-weight) |
 | [1424-diagonal-traverse-ii](https://github.com/surajkr35/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajkr35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/surajkr35/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
