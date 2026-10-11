@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/surajkr35/DSA/tree/master/2706-buy-two-chocolates) |
 | [2751-robot-collisions](https://github.com/surajkr35/DSA/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/surajkr35/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/surajkr35/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/surajkr35/DSA/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/surajkr35/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajkr35/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -960,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/surajkr35/DSA/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/surajkr35/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2094-finding-3-digit-even-numbers](https://github.com/surajkr35/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/surajkr35/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajkr35/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/surajkr35/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/surajkr35/DSA/tree/master/3546-equal-sum-grid-partition-i) |
