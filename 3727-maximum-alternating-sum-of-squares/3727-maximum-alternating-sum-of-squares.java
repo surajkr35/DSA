@@ -7,9 +7,9 @@ class Solution {
                 nums[i] = -nums[i];
             }
         }
-        
-        long neg = 1;
-        long pos = 1;
+
+        long neg = 0;
+        long pos = 0;
 
         Arrays.sort(nums);
 
