@@ -19,7 +19,6 @@ class Solution {
         while(ans.length() < num){
             ans.append('0');
         }
-
         return ans.toString();
     }
 }
