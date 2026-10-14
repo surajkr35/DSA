@@ -1,6 +1,7 @@
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
         int[] count = {0};
+        
         return helper(root, k, count);
     }
 
