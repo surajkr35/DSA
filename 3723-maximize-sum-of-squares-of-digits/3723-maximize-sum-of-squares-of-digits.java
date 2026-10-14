@@ -1,7 +1,6 @@
 class Solution {
     public String maxSumOfSquares(int num, int sum) {
         StringBuilder ans = new StringBuilder();
-
         int n = sum / 9;
         int x = sum % 9;
 
