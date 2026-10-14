@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/surajkr35/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/surajkr35/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/surajkr35/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/surajkr35/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/surajkr35/DSA/tree/master/2706-buy-two-chocolates) |
 | [2751-robot-collisions](https://github.com/surajkr35/DSA/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/surajkr35/DSA/tree/master/2784-check-if-array-is-good) |
@@ -1080,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/surajkr35/DSA/tree/master/1345-jump-game-iv) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajkr35/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/surajkr35/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajkr35/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Linked List
 |  |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/surajkr35/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajkr35/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/surajkr35/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/surajkr35/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1260,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/surajkr35/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajkr35/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/surajkr35/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/surajkr35/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
