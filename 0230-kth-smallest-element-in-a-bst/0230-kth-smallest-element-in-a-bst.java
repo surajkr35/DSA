@@ -1,26 +1,25 @@
 class Solution {
-    int count = 0;
-    int ans = 0;
     public int kthSmallest(TreeNode root, int k) {
-        helper(root, k);
-
-        return ans;
+        int[] count = {0};
+        return helper(root, k, count);
     }
 
-    private void helper(TreeNode root, int k){
-        if(root == null) return;
-
-        helper(root.left, k);
-
-        count++;
-
-        if(count == k){
-            ans = root.val;
-            return;
+    private int helper(TreeNode root, int k, int[] count) {
+        if(root == null) {
+            return -1;
         }
 
-        if(count < k){
-            helper(root.right, k);
+        int left = helper(root.left, k, count);
+        if(left != -1){
+            return left;
         }
+
+        count[0]++;
+
+        if(count[0] == k){
+            return root.val;
+        }
+
+        return helper(root.right, k, count);
     }
 }
