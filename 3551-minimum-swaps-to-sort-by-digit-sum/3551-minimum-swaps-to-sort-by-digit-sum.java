@@ -1,7 +1,6 @@
 class Solution {
     public int minSwaps(int[] nums) {
         int n = nums.length;
-
         int[][] arr = new int[n][2];
 
         for(int i = 0; i < n; i++){
