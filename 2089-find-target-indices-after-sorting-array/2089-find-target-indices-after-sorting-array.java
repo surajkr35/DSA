@@ -11,10 +11,10 @@ class Solution {
             else if (nums[i] == target)
                 equal++;
         }
-
         for(int i = less; i < less + equal; i++){
             list.add(i);
         }
+
         return list;
     }
 }
