@@ -5,20 +5,19 @@ class Solution {
         int less = 0, equal = 0;
         ArrayList<Integer> list = new ArrayList<>();
 
-        for (int i = 0; i < nums.length; i++) {
+        for(int i = 0; i < nums.length; i++){
             if (nums[i] < target)
                 less++;
             else if (nums[i] == target)
                 equal++;
         }
 
-        for (int i = less; i < less + equal; i++) {
+        for(int i = less; i < less + equal; i++){
             list.add(i);
         }
         return list;
     }
 }
-
 // Brute Force Approach    ~ n log(n) Time Complexity
 
 // class Solution {
