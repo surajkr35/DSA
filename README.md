@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/surajkr35/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/surajkr35/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/surajkr35/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/surajkr35/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/surajkr35/DSA/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/surajkr35/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/surajkr35/DSA/tree/master/2239-find-closest-number-to-zero) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/surajkr35/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/surajkr35/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/surajkr35/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/surajkr35/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/surajkr35/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/surajkr35/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/surajkr35/DSA/tree/master/2418-sort-the-people) |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/surajkr35/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/surajkr35/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/surajkr35/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajkr35/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/surajkr35/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -1283,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/surajkr35/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/surajkr35/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/surajkr35/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajkr35/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/surajkr35/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
