@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/surajkr35/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajkr35/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/surajkr35/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/surajkr35/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/surajkr35/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/surajkr35/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/surajkr35/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/surajkr35/DSA/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/surajkr35/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surajkr35/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/surajkr35/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## String
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/surajkr35/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/surajkr35/DSA/tree/master/1306-jump-game-iii) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajkr35/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/surajkr35/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajkr35/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1224,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/surajkr35/DSA/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/surajkr35/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/surajkr35/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajkr35/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/surajkr35/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -1278,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/surajkr35/DSA/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/surajkr35/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/surajkr35/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajkr35/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/surajkr35/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -1299,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/surajkr35/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/surajkr35/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/surajkr35/DSA/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Game Theory
 |  |
 | ------- |
