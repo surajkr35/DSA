@@ -23,7 +23,6 @@ class Solution {
                 p.right = c;
             }
         }
-
         for(int root : nodes.keySet()){
             if(!set.contains(root)){
                 return nodes.get(root);
