@@ -5,7 +5,7 @@ class Solution {
 
         return createBST(list, 0 , list.size() - 1);
     }
-    
+
     private void inorder(TreeNode root, List<Integer> list){
         if(root == null){
             return;
@@ -20,7 +20,6 @@ class Solution {
         if(st > end){
             return null;
         }
-
         int mid = st + (end - st) / 2;
         TreeNode root = new TreeNode(list.get(mid));
         root.left = createBST(list, st, mid - 1);
