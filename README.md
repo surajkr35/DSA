@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/surajkr35/DSA/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/surajkr35/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajkr35/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/surajkr35/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/surajkr35/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/surajkr35/DSA/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/surajkr35/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/surajkr35/DSA/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/surajkr35/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajkr35/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/surajkr35/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/surajkr35/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/surajkr35/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surajkr35/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/surajkr35/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/surajkr35/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/surajkr35/DSA/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/surajkr35/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1227,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/surajkr35/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/surajkr35/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/surajkr35/DSA/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/surajkr35/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/surajkr35/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -1283,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/surajkr35/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/surajkr35/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/surajkr35/DSA/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/surajkr35/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/surajkr35/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/surajkr35/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -1308,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/surajkr35/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/surajkr35/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/surajkr35/DSA/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/surajkr35/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/surajkr35/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Game Theory
 |  |
