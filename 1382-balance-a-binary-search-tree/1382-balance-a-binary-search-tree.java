@@ -5,6 +5,7 @@ class Solution {
 
         return createBST(list, 0 , list.size() - 1);
     }
+    
     private void inorder(TreeNode root, List<Integer> list){
         if(root == null){
             return;
