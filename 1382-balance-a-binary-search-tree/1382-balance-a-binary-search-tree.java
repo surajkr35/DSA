@@ -5,6 +5,16 @@ class Solution {
 
         return createBST(list, 0 , list.size() - 1);
     }
+    private void inorder(TreeNode root, List<Integer> list){
+        if(root == null){
+            return;
+        }
+
+        inorder(root.left, list);
+        list.add(root.val);
+        inorder(root.right, list);
+    }
+    
     private TreeNode createBST(List<Integer> list, int st, int end){
         if(st > end){
             return null;
@@ -16,15 +26,5 @@ class Solution {
         root.right = createBST(list, mid + 1, end);
 
         return root;
-    }
-
-    private void inorder(TreeNode root, List<Integer> list){
-        if(root == null){
-            return;
-        }
-
-        inorder(root.left, list);
-        list.add(root.val);
-        inorder(root.right, list);
     }
 }
