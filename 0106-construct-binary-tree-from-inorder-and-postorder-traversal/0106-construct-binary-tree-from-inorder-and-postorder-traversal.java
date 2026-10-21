@@ -7,6 +7,7 @@ class Solution {
         for(int i = 0; i < inorder.length; i++){
             map.put(inorder[i], i);
         }
+        
         return build(inorder, 0, inorder.length - 1, postorder, map);
     }
 
