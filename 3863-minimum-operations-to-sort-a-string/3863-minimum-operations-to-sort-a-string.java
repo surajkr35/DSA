@@ -13,7 +13,6 @@ class Solution {
                 break;
             }
         }
-        
         if(isSort){
             return 0;
         }
