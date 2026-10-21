@@ -14,7 +14,6 @@ class Solution {
         if(st > end){
             return null;
         }
-
         int val = postorder[postIdx--];
         TreeNode root = new TreeNode(val);
 
