@@ -4,7 +4,7 @@ class Solution {
         if(n == 1){
             return 0;
         }
-
+        
         boolean isSort = true;
 
         for(int i = 1; i < n; i++){
@@ -13,7 +13,6 @@ class Solution {
                 break;
             }
         }
-
         if(isSort){
             return 0;
         }
