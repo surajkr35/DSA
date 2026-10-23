@@ -8,6 +8,7 @@ class Solution {
                 k = k & nums[i];
             }
         }
+        
         return k == -1 ? 0 : k;
     }
 }
