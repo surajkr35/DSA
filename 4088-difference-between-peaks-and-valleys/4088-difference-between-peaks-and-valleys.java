@@ -12,6 +12,7 @@ class Solution {
                 sumVal += nums[i];
             }
         }
+        
         return sumPeak - sumVal;
     }
 }
