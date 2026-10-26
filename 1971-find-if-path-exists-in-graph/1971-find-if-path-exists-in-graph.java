@@ -6,7 +6,6 @@ class Solution {
         for(int i = 0; i < n; i++){
             graph.add(new ArrayList<>());
         }
-
         for(int[] edge : edges){
             int u = edge[0];
             int v = edge[1];
@@ -21,7 +20,6 @@ class Solution {
         if(s == d){
             return true;
         }
-
         vis[s] = true;
 
         for(int neigh : graph.get(s)){
@@ -31,6 +29,5 @@ class Solution {
         }
 
         return false;
-
     }
 }
