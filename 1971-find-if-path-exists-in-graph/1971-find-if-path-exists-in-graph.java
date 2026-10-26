@@ -17,7 +17,6 @@ class Solution {
 
         return dfs(graph, source, destination, vis);
     }
-
     private boolean dfs(List<Integer>[] graph, int s, int d, boolean[] vis){
         if(s == d){
             return true;
