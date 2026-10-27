@@ -17,7 +17,6 @@ class Solution {
         for(int i = 1; i < m; i++){
             ans[i] = sb.toString();
         }
-
         return ans;
     }
 }
