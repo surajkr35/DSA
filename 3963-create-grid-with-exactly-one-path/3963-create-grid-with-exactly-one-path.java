@@ -6,9 +6,8 @@ class Solution {
         for(int i = 0; i < n; i++){
             sb.append('.');
         }
-
         ans[0] = sb.toString();
-        sb = new StringBuilder();
+        sb.setLength(0);
 
         for(int i = 0; i < n - 1; i++){
             sb.append('#');
