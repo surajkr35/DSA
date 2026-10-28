@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/surajkr35/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/surajkr35/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/surajkr35/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3917-count-indices-with-opposite-parity](https://github.com/surajkr35/DSA/tree/master/3917-count-indices-with-opposite-parity) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/surajkr35/DSA/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/surajkr35/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/surajkr35/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
