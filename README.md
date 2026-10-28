@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surajkr35/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/surajkr35/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surajkr35/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3833-count-dominant-indices](https://github.com/surajkr35/DSA/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/surajkr35/DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/surajkr35/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/surajkr35/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -1011,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/surajkr35/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajkr35/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/surajkr35/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3833-count-dominant-indices](https://github.com/surajkr35/DSA/tree/master/3833-count-dominant-indices) |
 ## Trie
 |  |
 | ------- |
