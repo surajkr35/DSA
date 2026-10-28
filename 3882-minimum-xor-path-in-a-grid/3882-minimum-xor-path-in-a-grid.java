@@ -1,31 +1,34 @@
 class Solution {
+    int min = Integer.MAX_VALUE;
+
     public int minCost(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        int max = 1024;
-        boolean[][][] d = new boolean[m][n][max];
-        d[0][0][grid[0][0]] = true;
+        boolean[][][] vis = new boolean[m][n][1024];
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                for (int k = 0; k < max; k++) {
-                    if (d[i][j][k]) {
-                        if (i + 1 < m) {
-                            d[i + 1][j][k ^ grid[i + 1][j]] = true;
-                        }
-                        if (j + 1 < n) {
-                            d[i][j + 1][k ^ grid[i][j + 1]] = true;
-                        }
-                    }
-                }
-            }
+        helper(grid, 0, 0, m, n, 0, vis);
+
+        return min;
+    }
+
+    private void helper(int[][] grid, int i, int j, int m, int n, int xor, boolean[][][] vis){
+        if(i >= m || j >= n){
+            return;
         }
-        
-        for( int k = 0; k < max; k++){
-            if(d[m-1][n-1][k]){
-                return k;
-            }
+
+        xor = xor ^ grid[i][j];
+
+        if(vis[i][j][xor]){
+            return;
         }
-        return 0;
+
+        if(i == m - 1 && j >= n - 1){
+            min = Math.min(min, xor);
+            return;
+        }
+        vis[i][j][xor] = true;
+
+        helper(grid, i + 1, j, m, n, xor, vis);
+        helper(grid, i, j + 1, m, n, xor, vis);
     }
 }
