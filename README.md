@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/surajkr35/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/surajkr35/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/surajkr35/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/surajkr35/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/surajkr35/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/surajkr35/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/surajkr35/DSA/tree/master/0645-set-mismatch) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/surajkr35/DSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/surajkr35/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/surajkr35/DSA/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/surajkr35/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/surajkr35/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/surajkr35/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/surajkr35/DSA/tree/master/0486-predict-the-winner) |
