@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/surajkr35/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/surajkr35/DSA/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surajkr35/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/surajkr35/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/surajkr35/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/surajkr35/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/surajkr35/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/surajkr35/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/surajkr35/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajkr35/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/surajkr35/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/surajkr35/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/surajkr35/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surajkr35/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3660-jump-game-ix](https://github.com/surajkr35/DSA/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surajkr35/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/surajkr35/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/surajkr35/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/surajkr35/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/surajkr35/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
