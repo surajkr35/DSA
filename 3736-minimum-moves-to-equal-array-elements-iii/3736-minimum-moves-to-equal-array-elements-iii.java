@@ -15,6 +15,7 @@ class Solution {
     }
 }
 
+
 // class Solution {
 //     public int minMoves(int[] nums) {
 //         int n = nums.length;
