@@ -19,6 +19,7 @@ class Solution {
                 st.pop();
             }
         }
+        
         return st.isEmpty();
     }
 }
