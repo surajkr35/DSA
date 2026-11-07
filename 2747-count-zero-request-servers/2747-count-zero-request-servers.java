@@ -34,6 +34,7 @@ class Solution {
             }
             ans[arr[i][1]] = n - map.size();
         }
+        
         return ans;
     }
 }
