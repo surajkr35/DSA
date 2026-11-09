@@ -3,9 +3,10 @@ class Solution {
         if(source == destination){
             return true;
         }
-        
+
         boolean[] vis = new boolean[n];
         List<Integer>[] graph = new ArrayList[n];
+        Queue<Integer> q = new LinkedList<>();
 
         for(int i = 0; i < n; i++){
             graph[i] = new ArrayList<>();
@@ -19,19 +20,22 @@ class Solution {
             graph[v].add(u);
         }
 
-        dfs(graph, source, vis);
+        q.add(source);
+        vis[source] = true;
 
-        return vis[destination];
-    }
+        while(!q.isEmpty()){
+            int curr = q.remove();
 
-    private void dfs(List<Integer>[] graph, int curr, boolean[] vis){
-        vis[curr] = true;
+            for(int i = 0; i < graph[curr].size(); i++){
+                int key = graph[curr].get(i);
 
-        for(int i = 0; i < graph[curr].size(); i++){
-            int key = graph[curr].get(i);
-            if(!vis[key]){
-                dfs(graph, key, vis);
+                if(!vis[key]){
+                    vis[key] = true;
+                    q.add(key);
+                }
             }
         }
+
+        return vis[destination];
     }
 }
