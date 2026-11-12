@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/surajkr35/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/surajkr35/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/surajkr35/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/surajkr35/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/surajkr35/DSA/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajkr35/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/surajkr35/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/surajkr35/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/surajkr35/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/surajkr35/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/surajkr35/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2573-find-the-string-with-lcp](https://github.com/surajkr35/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2706-buy-two-chocolates](https://github.com/surajkr35/DSA/tree/master/2706-buy-two-chocolates) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/surajkr35/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/surajkr35/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/surajkr35/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/surajkr35/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/surajkr35/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/surajkr35/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/surajkr35/DSA/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/surajkr35/DSA/tree/master/2747-count-zero-request-servers) |
@@ -1255,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajkr35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1882-process-tasks-using-servers](https://github.com/surajkr35/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/surajkr35/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/surajkr35/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1563,4 +1567,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/surajkr35/DSA/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/surajkr35/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/surajkr35/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/surajkr35/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 <!---LeetCode Topics End-->
