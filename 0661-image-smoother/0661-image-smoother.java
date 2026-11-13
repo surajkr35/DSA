@@ -54,7 +54,6 @@ class Solution {
                 ans[i][j] = sum / count;
             }
         }
-
         return ans;
     }
 }
