@@ -8,52 +8,23 @@ class Solution {
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
 
-                int sum = img[i][j];
-                int count = 1;
+                int sum = 0;
+                int count = 0;
 
-                if(i > 0){
-                    sum += img[i - 1][j];
-                    count++;
-                }
+                for(int r = i - 1; r <= i + 1; r++){
+                    for(int c = j - 1; c <= j + 1; c++){
 
-                if(i < m - 1){
-                    sum += img[i + 1][j];
-                    count++;
-                }
-
-                if(j > 0){
-                    sum += img[i][j - 1];
-                    count++;
-                }
-
-                if(j < n - 1){
-                    sum += img[i][j + 1];
-                    count++;
-                }
-
-                if(i > 0 && j > 0){
-                    sum += img[i - 1][j - 1];
-                    count++;
-                }
-
-                if(i > 0 && j < n - 1){
-                    sum += img[i - 1][j + 1];
-                    count++;
-                }
-
-                if(i < m - 1 && j > 0){
-                    sum += img[i + 1][j - 1];
-                    count++;
-                }
-
-                if(i < m - 1 && j < n - 1){
-                    sum += img[i + 1][j + 1];
-                    count++;
+                        if(r >= 0 && r < m && c >= 0 && c < n) {
+                            sum += img[r][c];
+                            count++;
+                        }
+                    }
                 }
 
                 ans[i][j] = sum / count;
             }
         }
+
         return ans;
     }
 }
