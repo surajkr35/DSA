@@ -1,7 +1,6 @@
 class Solution {
     public int countSuffix(int[] nums, int[] target) {
         int n = nums.length;
-
         int count = 0;
 
         Map<Integer, Integer> freq1 = new HashMap<>();
