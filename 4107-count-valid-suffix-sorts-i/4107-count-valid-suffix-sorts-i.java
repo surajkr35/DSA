@@ -33,6 +33,7 @@ class Solution {
                 break;
             }
         }
+
         count = Math.max(0, maxI - minI + 1);
 
         return count;
