@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/surajkr35/DSA/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/surajkr35/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/surajkr35/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4107-count-valid-suffix-sorts-i](https://github.com/surajkr35/DSA/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surajkr35/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surajkr35/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/surajkr35/DSA/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4107-count-valid-suffix-sorts-i](https://github.com/surajkr35/DSA/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/surajkr35/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajkr35/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/surajkr35/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [4107-count-valid-suffix-sorts-i](https://github.com/surajkr35/DSA/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Design
 |  |
 | ------- |
