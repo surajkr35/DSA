@@ -30,6 +30,7 @@ class Solution {
 
             dp[i] = Math.max(op1, op2);
         }
+        
         return dp[0];
     }
 }
