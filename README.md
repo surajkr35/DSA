@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/surajkr35/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/surajkr35/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/surajkr35/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/surajkr35/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/surajkr35/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/surajkr35/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/surajkr35/DSA/tree/master/2615-sum-of-distances) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/surajkr35/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/surajkr35/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/surajkr35/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/surajkr35/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/surajkr35/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2706-buy-two-chocolates](https://github.com/surajkr35/DSA/tree/master/2706-buy-two-chocolates) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/surajkr35/DSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/surajkr35/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/surajkr35/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/surajkr35/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/surajkr35/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/surajkr35/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/surajkr35/DSA/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/surajkr35/DSA/tree/master/2747-count-zero-request-servers) |
