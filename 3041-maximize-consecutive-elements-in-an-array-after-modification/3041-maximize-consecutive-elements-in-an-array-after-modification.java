@@ -1,6 +1,7 @@
 class Solution {
     public int maxSelectedElements(int[] nums) {
         Arrays.sort(nums);
+        
         int maxVal = nums[nums.length-1];
         int[] dp = new int[maxVal+2];
         int maxLen = 1;
