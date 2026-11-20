@@ -10,6 +10,7 @@ class Solution {
             dp[val] = dp[val-1]+1;
             maxLen = Math.max(maxLen, Math.max(dp[val], dp[val+1]));
         }
+
         
         return maxLen;
     }
