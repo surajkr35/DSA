@@ -11,7 +11,6 @@ class Solution {
             maxLen = Math.max(maxLen, Math.max(dp[val], dp[val+1]));
         }
 
-        
         return maxLen;
     }
 }
