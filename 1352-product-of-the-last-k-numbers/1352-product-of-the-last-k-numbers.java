@@ -1,5 +1,4 @@
 class ProductOfNumbers {
-
     List<Integer> nums = new ArrayList<>();
 
     public ProductOfNumbers() {
