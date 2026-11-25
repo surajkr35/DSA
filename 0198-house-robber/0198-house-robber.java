@@ -6,13 +6,14 @@ class Solution {
         Arrays.fill(dp, - 1);
 
         return helper(nums, 0, dp);
+        
     }
 
     private int helper(int[] nums, int idx, int[] dp){
         if(idx >= nums.length){
             return 0;
         }
-        
+
         if(dp[idx] != -1){
             return dp[idx];
         }
