@@ -12,6 +12,7 @@ class Solution {
         if(idx >= nums.length){
             return 0;
         }
+        
         if(dp[idx] != -1){
             return dp[idx];
         }
