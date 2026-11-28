@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3940-limit-occurrences-in-sorted-array](https://github.com/surajkr35/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/surajkr35/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/surajkr35/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/surajkr35/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4107-count-valid-suffix-sorts-i](https://github.com/surajkr35/DSA/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Two Pointers
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/surajkr35/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/surajkr35/DSA/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/surajkr35/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/surajkr35/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/surajkr35/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/surajkr35/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/surajkr35/DSA/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/surajkr35/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1311,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/surajkr35/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/surajkr35/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/surajkr35/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/surajkr35/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
