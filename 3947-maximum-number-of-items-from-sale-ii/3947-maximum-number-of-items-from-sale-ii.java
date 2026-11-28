@@ -25,25 +25,21 @@ class Solution {
 
             int gifts = mul[fact] - 1;
 
-            if (gifts > 0 && pri < 2L * min) {
+            if(gifts > 0 && pri < 2L * min){
                 deals.add(new int[]{pri, gifts});
             }
         }
-
         deals.sort((a, b) -> Integer.compare(a[0], b[0]));
-
         long ans = 0;
 
         for(int[] deal : deals){
             int pri = deal[0];
             int gifts = deal[1];
-
             long buy = Math.min(gifts, budget / pri);
 
             ans += buy * 2;
             budget -= (int) (buy * pri);
         }
-
         ans += budget / min;
 
         return (int) ans;
